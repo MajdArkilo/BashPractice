@@ -305,7 +305,7 @@
 
 ## /* _______________________________________ */
 ## 13 The case statement example
-
+## http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_07_03.html
 echo -e "Enter some character : \c"
 read value
 

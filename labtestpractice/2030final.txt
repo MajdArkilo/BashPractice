@@ -1,0 +1,28 @@
+
+
+// REVIEW Session
+
+- Exceptions
+- Testing with JUnit
+- classess and objects
+  - methods
+  - static variables and static methods
+  - hashing, equals, comparables
+-inheritance
+  - abstract classess
+  - interface
+  - polymorphism
+  - dynamic binding
+
+- recursion [written]  // Study solution for Lab 7
+  - programming
+  - correctness proofs
+  - running time
+- Collections
+  - list
+  - map
+-complexity (big Oh) [ written ]
+
+
+- 1- 3pm , Mon Dec 10
+          Wed Dec 12

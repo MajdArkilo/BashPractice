@@ -1,8 +1,5 @@
 #!/bin/bash
 
-
-
-# OLD CODE
 if [ -z $1 ]; then
   path=$(pwd)
   #echo "path is empty" $path
@@ -14,7 +11,7 @@ cd $path
 for prince in $( ls -a ); do
   if [ -f $prince ];then
     case $prince in
-      .?*) echo $prince;;
+      *.sh) echo $prince;;
     esac
   fi
 done
