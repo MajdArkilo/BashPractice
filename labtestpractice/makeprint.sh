@@ -4,4 +4,4 @@
 
 
 read -p "Enter a word with special characters : " variable
-echo $variable | tr -s '<>,./?!*@#$%^&(){}[]' '__'
+echo $variable | tr -s '=;:`"<>,./?!@*#$%^&(){}[]' ' '
